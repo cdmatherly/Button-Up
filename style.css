@@ -1,0 +1,36 @@
+
+body {
+    margin: 50px;
+}
+
+#search {
+    border-radius: 25%;
+    border-width: 1px;
+    border-color: mediumturquoise;
+    background-color: whitesmoke;
+    color: mediumturquoise;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+    padding: 1px 25px;
+    margin-bottom: 10px;
+    font-weight:550;
+}
+
+#plus {
+    border-radius: 50%;
+    border-width: 0px;
+    height: 30px;
+    width: 30px;
+    font-size: larger;
+    background-color: rgb(36, 223, 213);
+    color: white;
+    margin-bottom: 10px;
+}
+
+#account {
+    border-width: 2px;
+    background-color: rgb(96, 123, 243);
+    color: white;
+    padding: 5px 20px;
+    box-shadow: 3px 3px black;
+}
